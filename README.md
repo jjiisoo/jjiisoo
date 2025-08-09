@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom)
 ![header](https://capsule-render.vercel.app/api?color=auto)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-![footer](https://capsule-render.vercel.app/api?section=footer)
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 ![header](https://capsule-render.vercel.app/api?height=400)
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
