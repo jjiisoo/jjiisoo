@@ -1,11 +1,14 @@
-# 안녕하세요! 👋
+## Major
+- Medical Artificial Intelligence
 
-## 관심사
-- 웹 개발
-- 머신러닝
-- 데이터 분석
+## Interests
+- Web Development
+- Machine Learning
+- Data Analysis
 
-## 사용 언어 및 기술 스택
-- Python
-- JavaScript (React)
-- TensorFlow
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
