@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?color=auto)
 ![header](https://capsule-render.vercel.app/api?height=400)
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 <!--
 **jjiisoo/jjiisoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
