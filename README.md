@@ -1,5 +1,5 @@
 ## About Me
-**Major:** Medical Artificial Intelligence (B.S.)  
+**Major:** Medical Artificial Intelligence (B.S., Konyang University)  
 **Interests:** Deep Learning, Machine Learning, Speech Processing, Data Analysis  
 
 ## Achievements & Academic Activities
