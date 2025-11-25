@@ -9,7 +9,7 @@
 - **우수발표논문상**, 한국인공지능융합기술학회 2025 춘계 학술대회  
 - **은상**, 2025 건양대학교 캡스톤 디자인 경진대회  
 
-## 📂 Featured Projects
+## Featured Projects
 
 - **SELSI 기반 아동 언어 발달 단계 분류 AI**  
   Mel-Spectrogram 기반 Swin-Transformer 모델, Test Acc 68.42%  
