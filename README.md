@@ -2,7 +2,7 @@
 **Major:** Medical Artificial Intelligence (B.S.)  
 **Interests:** Deep Learning, Machine Learning, Speech Processing, Data Analysis  
 
---
+---
 
 ## 🏆 Achievements & Academic Activities
 
