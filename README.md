@@ -23,8 +23,7 @@
 - **딥페이크 이미지 분류 모델 (Deepfake Detection)**  
   EfficientNet-b7 → Teacher / ResNet-8 → Student 구조 구현  
   Knowledge Distillation 적용, 파라미터 99.7% 경량화  
-  최종 Test Accuracy 94.29% 기록 
-
+  → *최종 Test Accuracy 94.29% 기록*
 
 ## Tech Stack
 
